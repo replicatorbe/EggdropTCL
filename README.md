@@ -1,5 +1,5 @@
-### TCL Eggdrop 
+# TCL Eggdrop 
 ## Moderator
-# Badword.tcl
-# BadNick.tcl
-# Banflooders.tcl
+### Badword.tcl
+### BadNick.tcl
+### Banflooders.tcl
