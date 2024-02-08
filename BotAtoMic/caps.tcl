@@ -1,3 +1,14 @@
+#
+# Auteur sMug (Jérôme Fafchamps)
+#Licence d'utilisation libre :
+#
+#Ce script est fourni tel quel, sans garantie d'aucune sorte, expresse ou implicite. L'auteur ne peut en aucun cas être tenu responsable #de tout dommage résultant de l'utilisation de ce script.
+#
+#Cependant, l'auteur espère que ce script sera utile à d'autres utilisateurs et contribuera à améliorer leurs expériences avec Eggdrop.
+#
+#En utilisant ce script, vous acceptez ces termes de licence.
+
+
 bind pubm - * caps_pubm
 proc caps_pubm {nick uhost hand chan text } {
   if [matchattr $hand f] {return 0}
