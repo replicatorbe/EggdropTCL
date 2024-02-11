@@ -1,8 +1,8 @@
 # TCL Eggdrop 
 Pack TCL utilisé dans l'ancien réseau IRC de Espace-IRC 
 Information : https://wiki.fafchamps.be/index.php/BotAtomic
-## Moderator
-TCL Eggdrop de BotAtoMic : robot modérateur autonome.
+## Moderator (BotAtoMic)
+TCL Eggdrop -> robot modérateur autonome.
 ### Badword.tcl 
 ### BadNick.tcl
 ### Banflooders.tcl
